@@ -57,7 +57,7 @@ module.exports = function({ api, models }) {
         return logger.loader(global.getText('listen', 'failLoadEnvironment', error), 'error');
     }
 }());
-	logger(`${api.getCurrentUserID()} - [${global.config.PREFIX} ] • ${(!global.config.BOTNAME) ? "༻𝐎𝐖𝐍𝐄𝐑:- ☞ARUN KUMAR☜ ༺ 〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/100040426712109 ☜ ☜" : global.config.BOTNAME}`, "[ BOT INFO ]");
+	logger(`${api.getCurrentUserID()} - [${global.config.PREFIX} ] • ${(!global.config.BOTNAME) ? "༻𝐎𝐖𝐍𝐄𝐑:- ☞FAIZ ANSARI☜ ༺ 〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/100082052205053 ☜ ☜" : global.config.BOTNAME}`, "[ BOT INFO ]");
 
   
 	
@@ -214,4 +214,4 @@ module.exports = function({ api, models }) {
 	};
 };
 
-//THIZ BOT WAS MADE BY ME(CATALIZCS) AND MY BROTHER SPERMLORD - DO NOT STEAL MY CODE (つ ͡ ° ͜ʖ ͡° )つ ✄ ╰⋃╯
+//THIZ BOT WAS MADE BY ME(FAIZ) AND MY BROTHER SPERMLORD - DO NOT STEAL MY CODE (つ ͡ ° ͜ʖ ͡° )つ ✄ ╰⋃╯
